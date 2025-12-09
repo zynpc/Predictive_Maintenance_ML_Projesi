@@ -13,7 +13,9 @@ Proje, dengesiz veri setleri (Imbalanced Data) ile çalışma, fiziksel öznitel
 ---
 
 ### Canlı Demo (Inference)
-Bu proje şu an **yerel ortamda (Localhost)** çalışacak şekilde yapılandırılmıştır. Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki **"Local Kurulum Adımları"** başlığını inceleyiniz.
+Modelin çalışan canlı versiyonunu aşağıdaki linkten test edebilirsiniz:
+
+**Canlı Uygulama Linki:** [https://predictive-maintenance-ml-projesi.streamlit.app/](https://predictive-maintenance-ml-projesi.streamlit.app/)
 
 ---
 
@@ -51,38 +53,6 @@ Bu proje şu an **yerel ortamda (Localhost)** çalışacak şekilde yapılandır
 * **Model Açıklanabilirliği:** SHAP
 * **Arayüz (Deployment):** Streamlit
 * **Versiyon Kontrol:** Git & GitHub
-
----
-
-## Local Kurulum Adımları
-
-Projeyi kendi bilgisayarınızda çalıştırmak için:
-
-1.  **Repoyu Klonlayın:**
-    ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/PredictiveMaintenance_Project.git](https://github.com/KULLANICI_ADINIZ/PredictiveMaintenance_Project.git)
-    cd PredictiveMaintenance_Project
-    ```
-
-2.  **Sanal Ortam Oluşturun (Önerilen):**
-    ```bash
-    python -m venv venv
-    # Windows için:
-    venv\Scripts\activate
-    # Mac/Linux için:
-    source venv/bin/activate
-    ```
-
-3.  **Kütüphaneleri Yükleyin:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Uygulamayı Başlatın:**
-    ```bash
-    streamlit run src/app.py
-    ```
-    Tarayıcınızda otomatik olarak `http://localhost:8501` adresi açılacaktır.
 
 ---
 
