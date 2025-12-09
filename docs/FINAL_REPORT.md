@@ -54,7 +54,7 @@ Azınlık sınıfını (%3.4) modelin daha iyi öğrenmesi için **SMOTE (Synthe
 **Seçilen Model:** **Random Forest Classifier**
 
 **Neden Seçildi?**
-1.  **Non-Linearity:** Hız ve Tork arasındaki muz şeklindeki eğrisel ilişkiyi, karar ağaçları yapısı sayesinde mükemmel modellemiştir.
+1.  **Non-Linearity:** Hız ve Tork arasındaki eğrisel ilişkiyi, karar ağaçları yapısı sayesinde daha iyi modellemiştir.
 2.  **Kararlılık (Stability):** Gürültülü verilere karşı dirençlidir ve Overfitting riski (doğru parametrelerle) düşüktür.
 3.  **Feature Importance:** Hangi sensörün arızaya neden olduğunu açıklayabilmektedir.
 
