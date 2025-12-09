@@ -20,11 +20,12 @@ Bu proje şu an **yerel ortamda (Localhost)** çalışacak şekilde yapılandır
 ## Ekran Görüntüleri
 
 ### 1. Web Arayüzü (Streamlit)
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Streamlit+Arayuz+Gorseli)
+![Dashboard Screenshot]([https://via.placeholder.com/800x400?text=Streamlit+Arayuz+Gorseli](https://github.com/zynpc/Predictive_Maintenance_ML_Projesi/blob/main/docs/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1032).png?raw=true))(https://github.com/zynpc/Predictive_Maintenance_ML_Projesi/blob/main/docs/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1033).png?raw=true)
 *(Buraya `src/app.py` çalışırken aldığın bir ekran görüntüsünü `docs/images` klasörüne koyup linkleyebilirsin)*
 
 ### 2. SHAP Analizi (Model Açıklanabilirliği)
-![SHAP Analysis](https://via.placeholder.com/800x400?text=SHAP+Force+Plot)
+![SHAP Analysis]([https://via.placeholder.com/800x400?text=SHAP+Force+Plot](https://github.com/zynpc/Predictive_Maintenance_ML_Projesi/blob/main/docs/output.png?raw=true
+))
 
 ---
 
